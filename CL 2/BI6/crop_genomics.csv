@@ -1,0 +1,13 @@
+Sample,Marker1,Marker2,Marker3,Trait
+C1,1,1,1,Resistant
+C2,1,1,0,Resistant
+C3,1,1,1,Resistant
+C4,1,1,0,Resistant
+C5,1,0,1,Resistant
+C6,1,0,0,Resistant
+C7,0,1,1,Susceptible
+C8,0,1,0,Susceptible
+C9,0,1,1,Susceptible
+C10,0,0,0,Susceptible
+C11,0,0,1,Susceptible
+C12,0,0,0,Susceptible
